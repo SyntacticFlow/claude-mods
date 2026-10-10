@@ -1,0 +1,11 @@
+{
+  "name": "syntacticflow-claude-mods",
+  "owner": { "name": "SyntacticFlow" },
+  "plugins": [
+    {
+      "name": "cold-handoff",
+      "source": "./cold-handoff",
+      "description": "/cold-handoff: Haiku summarizes the session and copies the summary plus the last 2 messages to the clipboard for a fresh session"
+    }
+  ]
+}
